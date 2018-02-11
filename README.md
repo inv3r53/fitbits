@@ -67,4 +67,5 @@ OR
 
 Tests
 -----
-- Run mvnw test
+  - WINDOWS : mvnw test
+  - LINUX : ./mvnw test
