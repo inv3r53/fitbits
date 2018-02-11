@@ -58,13 +58,12 @@ Execute
 OR
 
 - Execute directly using maven as : 
-  - WINDOWS : mvnw -q exec:java -Dexec.args="<AbsolutePathToInputFile>"
-  - LINUX : ./mvnw -q exec:java -Dexec.args="<AbsolutePathToInputFile>"
+  - WINDOWS : mvnw -q exec:java -Dexec.args="insertHereAbsolutePathToInputFile"
+  - LINUX : ./mvnw -q exec:java -Dexec.args="insertHereAbsolutePathToInputFile"
 
 OR
 
-- Execute from IDE by Running Java main class=>com.github.inv3r53.fitbits.Main passing a Java arg as <AbsolutePathToInputFile>
-
+- Execute from IDE by Running Java main class=>com.github.inv3r53.fitbits.Main passing a Java arg as "insertHereAbsolutePathToInputFile"
 
 Tests
 -----
