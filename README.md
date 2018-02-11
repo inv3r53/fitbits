@@ -33,11 +33,11 @@ Design
   
 - Function Specification
   	
-  	-- Pitch with dimensions X Y where X<=0 or Y <=0 will result in end of program execution with IllegalArgumentException.
+  	 - Pitch with dimensions X Y where X<=0 or Y <=0 will result in end of program execution with IllegalArgumentException.
     
- 	  -- For an invalid placement of trainee - beyond pitch boundary the program outputs empty line.
+ 	  - For an invalid placement of trainee - beyond pitch boundary the program outputs empty line.
     
- 	  -- During the training , any instruction that causes trainee to move beyond the pitch will be silently ignored and subsequent instruction will be processed.
+ 	  - During the training , any instruction that causes trainee to move beyond the pitch will be silently ignored and subsequent instruction will be processed.
 
 Prerequisites
 -------------
