@@ -29,7 +29,7 @@ Design
   
 - Assumption
  
-   -- Input file has the data as per the problem specification
+    - Input file has the data as per the problem specification
   
 - Function Specification
   	
